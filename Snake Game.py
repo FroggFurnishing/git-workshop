@@ -1,6 +1,7 @@
 """
-Snake Eater
+Snake Game
 Made with PyGame
+Hello 
 """
 
 import pygame, sys, time, random
