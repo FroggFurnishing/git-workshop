@@ -1,6 +1,7 @@
 """
 Snake Game
 Made with PyGame
+Hello World
 """
 
 import pygame, sys, time, random
